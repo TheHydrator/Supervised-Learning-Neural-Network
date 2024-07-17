@@ -4,8 +4,9 @@
 ## Table of Contents
 Introduction
 Course Structure
-**Week 1: Linear Regression with One Variable
-Week 2: Linear Regression with Multiple Variables
+
+**Week 1: Linear Regression with One Variable //
+Week 2: Linear Regression with Multiple Variables //
 Week 3: Logistic Regression
 Week 4: Regularization
 Week 5: Neural Networks
