@@ -1,18 +1,28 @@
 # Supervised Learning with Python - Coursera Specialization
-**Welcome to the Supervised Learning with Python repository! This repository contains code examples, implementations, and projects from the Coursera specialization "Supervised Learning" by Andrew Ng. This course is part of a larger Machine Learning specialization and covers essential concepts and techniques used in supervised learning.**
+
+**Welcome to the Supervised Learning with Python repository!This repository contains code examples, implementations, and projects from the Coursera specialization "Supervised Learning" by Andrew Ng. This course is part of a larger Machine Learning specialization and covers essential concepts and techniques used in supervised learning.**
 
 ## Table of Contents
 Introduction
+
 Course Structure
 
-**Week 1: Linear Regression with One Variable /n
-Week 2: Linear Regression with Multiple Variables /n
+**Week 1: Linear Regression with One Variable**
+
+Week 2: Linear Regression with Multiple Variables 
+
 Week 3: Logistic Regression
+
 Week 4: Regularization
+
 Week 5: Neural Networks
+
 Week 6: Support Vector Machines
+
 Week 7: K-Nearest Neighbors
+
 Week 8: Decision Trees**
+
 Installation
 Usage
 Contributing
